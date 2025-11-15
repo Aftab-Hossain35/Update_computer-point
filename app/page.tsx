@@ -81,7 +81,7 @@ const achievements = [
     icon: Award,
   },
   {
-    number: "600+",
+    number: "650+",
     label: "Students",
     icon: Users,
   },
