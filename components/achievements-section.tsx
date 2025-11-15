@@ -22,7 +22,7 @@ const achievements = [
     bgColor: "bg-green-50",
   },
   {
-    number: "600+",
+    number: "650+",
     label: "Students",
     banglaLabel: "শিক্ষার্থী",
     icon: Users,
