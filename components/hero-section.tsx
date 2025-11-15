@@ -134,7 +134,7 @@ export default function HeroSection() {
               <div className="text-sm text-gray-300">সম্পন্ন কাজ</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl md:text-4xl font-bold text-primary-400 mb-2">600+</div>
+              <div className="text-3xl md:text-4xl font-bold text-primary-400 mb-2">650+</div>
               <div className="text-sm text-gray-300">শিক্ষার্থী</div>
             </div>
           </motion.div>
