@@ -71,7 +71,7 @@ const reviews = [
 
 const achievements = [
   {
-    number: "7",
+    number: "8",
     label: "Years of services",
     icon: Calendar,
   },
